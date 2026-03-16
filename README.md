@@ -19,3 +19,20 @@ It retries transient failures with exponential backoff and logs results to files
   ```bash
   gcloud auth login
   gcloud auth list
+  ```
+
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+<div align="center">
+  MusicTech Lab - Rockstars Developers dedicated to the Music Industry<br>
+  <a href="https://musictechlab.io">Website</a>
+  <span> | </span>
+  <a href="https://linkedin.com/company/musictechlab">LinkedIn</a>
+  <span> | </span>
+  <a href="https://musictechlab.io/contact">Let's talk</a><br>
+  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
+</div>
