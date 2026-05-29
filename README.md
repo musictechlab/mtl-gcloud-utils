@@ -1,5 +1,7 @@
 # cleanup.sh — Delete multiple GCP projects (and keep going)
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 This script deletes a list of Google Cloud projects and **continues on errors**.  
 It retries transient failures with exponential backoff and logs results to files.
 
